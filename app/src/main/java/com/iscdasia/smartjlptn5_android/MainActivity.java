@@ -29,6 +29,8 @@ public class MainActivity extends AppCompatActivity
         Fragment3.OnFragmentInteractionListener,
         NavigationView.OnNavigationItemSelectedListener {
 
+    // Testing only
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
