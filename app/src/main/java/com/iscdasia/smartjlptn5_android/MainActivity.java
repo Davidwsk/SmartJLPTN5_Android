@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity
         NavigationView.OnNavigationItemSelectedListener {
 
     // Testing only 2
+    // New Line
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
