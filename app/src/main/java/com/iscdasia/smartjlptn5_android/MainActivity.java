@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity
         Fragment3.OnFragmentInteractionListener,
         NavigationView.OnNavigationItemSelectedListener {
 
-    // Testing only
+    // Testing only 2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
